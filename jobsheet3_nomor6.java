@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Siakad28 {
+public class jobsheet3_nomor6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String nama, nim;
