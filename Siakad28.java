@@ -28,7 +28,5 @@ public class Siakad28 {
         System.out.println("Nilai Akhir: " + nilaiAkhir);
 
             
-
-
     }
 }
