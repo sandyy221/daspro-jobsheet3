@@ -11,8 +11,7 @@ public class tugas1Listrik_28 {
            jumlahPenggunaan = input.nextDouble();
            penggunaaListrik = jumlahPenggunaan > 500;
            totalTagihan = tarifListrik * jumlahPenggunaan;
-           System.out.println("Jumlah penggunaan " + totalTagihan);
-           System.out.println("Apakah jumlah penggunaan listrik 500" + penggunaaListrik);
+           System.out.println("Apakah jumlah penggunaan listrik lebih dari 500: " + penggunaaListrik);
            System.out.print("Total tagihan listrik: Rp " + totalTagihan);
            
 
